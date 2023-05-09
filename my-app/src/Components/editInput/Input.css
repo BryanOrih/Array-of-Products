@@ -1,0 +1,19 @@
+form{
+    display: inline-grid;
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+form div{
+    display: inline-block;
+    border: solid 1px #000;
+    min-height: 20px;
+    width: 200px;
+    border-radius: 2.5px;
+}
+form textarea{
+    height: 100px;
+    resize: none;
+}
+form button{
+    margin-top: 10px;
+}

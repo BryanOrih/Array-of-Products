@@ -1,0 +1,24 @@
+.display{
+    display: flex;
+    width: 30vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+.display div{
+    padding-left: 20px;
+    text-align: left;
+}
+.display div button:hover{
+    background-color: red;
+}
+.display div .buttons{
+    display: flex;
+    padding: 0;
+    gap: 10px;
+}
+.editForm{
+    text-align: center;
+    justify-content: center;
+}

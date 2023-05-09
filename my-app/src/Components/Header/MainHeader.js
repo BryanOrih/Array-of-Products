@@ -2,7 +2,7 @@ import React from 'react'
 
 const MainHeader = () => {
   return (
-    <h2>Your Product List</h2>
+    <h1>Your Product List</h1>
   )
 }
 

@@ -1,4 +1,4 @@
-export const Products = [
+export let Products = [
   {
     name: "Smartwatch",
     price: 150,
